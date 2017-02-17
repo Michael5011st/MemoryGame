@@ -1,0 +1,12 @@
+YesIntent yes
+
+YesIntent sure
+
+NoIntent no
+
+PassIntent {Pass}
+
+AnswerIntent {Answer}
+
+
+
