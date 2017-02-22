@@ -1,4 +1,4 @@
-welcome: Welcome to memory game. I'm going to say three numbers for you to repeat backwards. Are you ready?
+welcome: Welcome to memory game. I'm going to ask you several questions. Are you ready?
 
 passMessage: You have passed a question, would you like to continue?
 
@@ -8,4 +8,4 @@ lose: That is the wrong answer, are you ready to try again?
 
 quit: Goodbye.
 
-test_question: Please repeat the word Dog.
+

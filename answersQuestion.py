@@ -1,12 +1,12 @@
-questionList = {'What is the year?',
+questionList = ['What is the year?',
                       'What is the season',
-                      'Please remember this word airplane Respond with okay',
+                      'Please remember the word airplane. Please respond with okay',
                       'Repeat the phrase: No ifs, ands, or buts',
-                      'Earlier I told you the names of three things Can you tell me what those were?'}
-answerList = {
+                      'Earlier I asked you to remember a noun. Can you please say that noun for me?']
+answerList = [
     '2017',
     'winter',
-    'okay',
+    'OK',
     'No ifs ands or buts',
     'airplane'
-}
+]
